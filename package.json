@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "name": "local-redirect",
+  "description": "Redirect local connections to another port",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhewison/local-redirect.git"
+  },
+  "keywords": [
+    "local",
+    "redirect",
+    "lambda",
+    "serverless",
+    "oauth"
+  ],
+  "author": "Zack Hewison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhewison/local-redirect/issues"
+  },
+  "homepage": "https://github.com/zhewison/local-redirect#readme"
+}
